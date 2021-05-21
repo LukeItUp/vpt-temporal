@@ -1,3 +1,7 @@
+As a parf of the assignemnt for course Advanced Computer Graphics, I added support for 4D temporal volumetric data. You can get the original vpt github here:
+https://github.com/terier/vpt
+
+
 # [VPT: The Volumetric Path Tracing Framework](http://lgm.fri.uni-lj.si/portfolio-view/volumetric-path-tracing-framework/)
 
 VPT is a volumetric path tracing framework targeted towards interactive
